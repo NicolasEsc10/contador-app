@@ -1,0 +1,21 @@
+.container-button {
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  width: 250px;
+  height: 80px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  margin: 7px;
+}
+.container-button-reset {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-reset {
+  width: 180px;
+}
